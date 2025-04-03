@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Doing Master's<br>👯 I’m looking to collaborate on Django Backend-dev<br>🤝 I’m looking for help with Backend Tools<br>🌱 I’m currently learning Postgre in deep<br>💬 Dsa Cpp<br>⚡ Fun fact - Lazt But Smart Work
+🔭 I’m currently Doing Master's<br>👯 I’m looking to collaborate on Django Backend-dev<br>🤝 I’m looking for help with Backend Tools<br>🌱 I’m currently learning Postgre in deep<br>💬 Dsa Cpp<br>⚡ Fun fact - Lazy But Smart Work
 
 
 ## 🌐 Socials:
