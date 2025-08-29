@@ -66,22 +66,6 @@ I'm a passionate **Backend Developer** from India who loves building scalable an
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anujpandey12345/anujpandey12345/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anujpandey12345&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🔥 Coding Activity
 
 <!--START_SECTION:waka-->
