@@ -12,8 +12,8 @@ I'm a passionate **Backend Developer** from India who loves building scalable an
 - 🌱 **Currently Learning:** Advanced backend technologies (Kafka, RabbitMQ, Redis, Celery, DRF)
 - 💬 **Ask me about:** Python, Django, C++, System Design, Database Optimization
 - 📫 **Reach me at:** anuj.a87a@gmail.com
-- ⚡ **Fun fact:** I code 14-15 hours daily and love every minute of it!
-- 🚀 Portfolio:**[Anuj Kumar Portfolio](https://portfolio-com-omega.vercel.app/)
+- ⚡ **Fun fact:** I code 10-11 hours daily and love every minute of it!
+- 🚀 **Portfolio**: [Anuj Kumar Portfolio](https://portfolio-com-omega.vercel.app/)
 
 ---
 
