@@ -62,7 +62,11 @@ I'm a passionate **Backend Developer** from India who loves building scalable an
 </div>
 
 <div align="center">
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujpandey12345&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+  <!-- Alternative Static Badge for Streak -->
+  <!-- <img src="https://img.shields.io/badge/Commit%20Streak-1000%20Days-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commit Streak" /> -->
 </div>
 
 ---
@@ -120,20 +124,3 @@ class AnujKumar:
 
 me = AnujKumar()
 print(me.say_hi())
-```
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujpandey12345&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  <h3>💫 "Code is poetry written in logic" 💫</h3>
-  <p>⭐ Don't forget to star my repositories if you find them useful!</p>
-</div>
-
