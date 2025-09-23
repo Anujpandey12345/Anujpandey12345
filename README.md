@@ -8,12 +8,12 @@
 
 I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems. I spend most of my time crafting robust server-side applications and exploring new technologies.
 
-- 🔭 **Currently Building:** [ERP Management System](https://myerp-8shi.onrender.com) - A comprehensive enterprise solution
-- 🌱 **Currently Learning:** Advanced backend technologies (Kafka, RabbitMQ, Redis, Celery, DRF)
-- 💬 **Ask me about:** Python, Django, C++, System Design, Database Optimization
-- 📫 **Reach me at:** anuj.a87a@gmail.com
-- ⚡ **Fun fact:** I code 10-11 hours daily and love every minute of it!
-- 🚀 **Portfolio**: [Anuj Kumar Portfolio](https://portfolio-com-omega.vercel.app/)
+- 🔭 **Currently Building:** [ERP Management System](https://myerp-8shi.onrender.com) - A comprehensive enterprise solution  
+- 🌱 **Currently Learning:** Advanced backend technologies (Kafka, RabbitMQ, Redis, Celery, DRF)  
+- 💬 **Ask me about:** Python, Django, C++, System Design, Database Optimization  
+- 📫 **Reach me at:** anuj.a87a@gmail.com  
+- ⚡ **Fun fact:** I code 10-11 hours daily and love every minute of it!  
+- 🚀 **Portfolio**: [Anuj Kumar Portfolio](https://portfolio-com-omega.vercel.app/)  
 
 ---
 
@@ -62,11 +62,8 @@ I'm a passionate **Backend Developer** from India who loves building scalable an
 </div>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujpandey12345&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-  <!-- Alternative Static Badge for Streak -->
-  <!-- <img src="https://img.shields.io/badge/Commit%20Streak-1000%20Days-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commit Streak" /> -->
+  <!-- ✅ Fixed GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=anujpandey12345&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
