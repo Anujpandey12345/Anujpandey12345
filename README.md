@@ -6,7 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems. I spend most of my time crafting robust server-side applications and exploring new technologies.
+I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems.  
+I spend most of my time crafting robust server-side applications and exploring new technologies.
 
 - 🔭 **Currently Building:** [ERP Management System](https://myerp-8shi.onrender.com) - A comprehensive enterprise solution  
 - 🌱 **Currently Learning:** Advanced backend technologies (Kafka, RabbitMQ, Redis, Celery, DRF)  
@@ -57,13 +58,16 @@ I'm a passionate **Backend Developer** from India who loves building scalable an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujpandey12345&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpandey12345&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-</div>
 
-<div align="center">
-  <!-- ✅ Fixed GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=anujpandey12345&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujpandey12345&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpandey12345&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+
+<!-- ✅ Fixed GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=anujpandey12345&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
