@@ -9,7 +9,8 @@
 I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems.  
 I spend most of my time crafting robust server-side applications and exploring new technologies.
 
-- 🔭 **Currently Building:** [ERP Management System](https://myerp-8shi.onrender.com) - A comprehensive enterprise solution  
+- 🔭 **Currently Building:** [AI_career_counseling_App
+](https://github.com/Anujpandey12345/AI_career_counseling_App) - A comprehensive enterprise solution  
 - 🌱 **Currently Learning:** Advanced backend technologies (Kafka, RabbitMQ, Redis, Celery, DRF)  
 - 💬 **Ask me about:** Python, Django, C++, System Design, Database Optimization  
 - 📫 **Reach me at:** anuj.a87a@gmail.com  
