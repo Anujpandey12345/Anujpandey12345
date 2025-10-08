@@ -15,7 +15,7 @@ I spend most of my time crafting robust server-side applications and exploring n
 - 💬 **Ask me about:** Python, Django, C++, System Design, Database Optimization  
 - 📫 **Reach me at:** anuj.a87a@gmail.com  
 - ⚡ **Fun fact:** I code 10-11 hours daily and love every minute of it!  
-- 🚀 **Portfolio**: [Anuj Kumar Portfolio](https://portfolio-com-omega.vercel.app/)  
+- 🚀 **Portfolio**: [Anuj Kumar Portfolio](https://anujportfolio-two.vercel.app/)  
 
 ---
 
@@ -102,7 +102,7 @@ I spend most of my time crafting robust server-side applications and exploring n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connectanujkumar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuj.a87a@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-com-omega.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anujportfolio-two.vercel.app/)
 
 </div>
 
