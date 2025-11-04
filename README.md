@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems.  
-I spend most of my time crafting robust server-side applications and exploring new technologies.
+I spend most of my time crafting robust server-side applications and exploring new technologies
 
 - 🔭 **Currently Building:** [AI_career_counseling_App
 ](https://github.com/Anujpandey12345/AI_career_counseling_App) - A comprehensive enterprise solution  
