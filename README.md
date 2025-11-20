@@ -1,21 +1,28 @@
 # Hi there! 👋 I'm Anuj Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Python+Enthusiast+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A;Building+Scalable+Systems+%E2%9A%A1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontAlignY=30&desc=Let's%20Build%20Something%20Amazing%20Together&descSize=18&descAlignY=51&animation=twinkling" />
 </div>
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems.  
 I spend most of my time crafting robust server-side applications and exploring new technologies
 
-- 🔭 **Currently Building:** [AI_career_counseling_App
-](https://github.com/Anujpandey12345/AI_career_counseling_App) - A comprehensive enterprise solution  
+- 🔭 **Currently Building:** [AI Career Counseling App](https://github.com/Anujpandey12345/AI_career_counseling_App) - A comprehensive enterprise solution  
 - 🌱 **Currently Learning:** Advanced backend technologies (Kafka, RabbitMQ, Redis, Celery, DRF)  
 - 💬 **Ask me about:** Python, Django, C++, System Design, Database Optimization  
 - 📫 **Reach me at:** anuj.a87a@gmail.com  
 - ⚡ **Fun fact:** I code 10-11 hours daily and love every minute of it!  
 - 🚀 **Portfolio**: [Anuj Kumar Portfolio](https://anujcom.vercel.app/)  
+
+<br clear="both">
 
 ---
 
@@ -24,34 +31,26 @@ I spend most of my time crafting robust server-side applications and exploring n
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
 
 ### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs" />
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 
-### Message Queues & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+### Message Queues & Tools
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,git,linux,nginx" />
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+</div>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 </div>
 
 ---
@@ -59,27 +58,36 @@ I spend most of my time crafting robust server-side applications and exploring n
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anujpandey12345&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Anuj Kumar github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anujpandey12345&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujpandey12345&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpandey12345&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+</div>
 
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpandey12345&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+---
 
-<!-- ✅ Fixed GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=anujpandey12345&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anujpandey12345/anujpandey12345/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
 ## 🔥 Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpandey12345&custom_title=Anuj's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0d1117&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpandey12345&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anujpandey12345&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -106,6 +114,12 @@ I spend most of my time crafting robust server-side applications and exploring n
 
 </div>
 
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=anujpandey12345&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  </a>
+</div>
+
 ---
 
 ## 🎯 Current Focus
@@ -118,11 +132,31 @@ class AnujKumar:
         self.languages = ["Python", "C++", "C", "JavaScript"]
         self.frameworks = ["Django", "Flask", "FastAPI", "DRF"]
         self.databases = ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
+        self.message_queues = ["Kafka", "RabbitMQ", "Celery"]
         self.current_focus = ["System Design", "Microservices", "Message Queues"]
         self.hobbies = ["Coding", "Problem Solving", "Learning New Tech"]
+        self.daily_coding_hours = 11
     
     def say_hi(self):
         return "Thanks for dropping by! Let's build something amazing together! 🚀"
+    
+    def get_stats(self):
+        return {
+            "experience": "Building scalable backend systems",
+            "passion": "Creating efficient & robust applications",
+            "goal": "Mastering distributed systems architecture"
+        }
 
 me = AnujKumar()
 print(me.say_hi())
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Happy+Coding!+%F0%9F%92%BB;Let's+Connect+and+Collaborate!+%F0%9F%A4%9D" alt="Footer Typing SVG" />
+</div>
