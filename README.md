@@ -37,13 +37,13 @@ I spend most of my time crafting robust server-side applications and exploring n
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
 
 ### Frameworks  
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
 
 ### Databases  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 
 ### Message Queues & Tools  
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,git,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,git,linux" />
 
 </div>
 
