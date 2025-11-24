@@ -64,13 +64,17 @@ I spend most of my time crafting robust server-side applications and exploring n
 
 <div align="center">
 
+<!-- Main Stats -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anujpandey12345&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=anujpandey12345&theme=github-dark-blue&hide_border=true" />
+<!-- FIXED: Streak Stats -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anujpandey12345&theme=github-dark-blue&hide_border=true" />
 
+<!-- Languages -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpandey12345&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
+
 
 ---
 
@@ -120,7 +124,7 @@ class AnujKumar:
     def __init__(self):
         self.role = "Backend Developer"
         self.location = "India"
-        self.languages = ["Python", C", "C++", "JavaScript"]
+        self.languages = ["Python", "C", "C++", "JavaScript"]
         self.frameworks = ["Django", "Flask", "FastAPI", "DRF"]
         self.databases = ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
         self.message_queues = ["Kafka", "RabbitMQ", "Celery"]
