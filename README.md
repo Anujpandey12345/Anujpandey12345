@@ -61,27 +61,26 @@ I spend most of my time crafting robust server-side applications and exploring n
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<!-- Main Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anujpandey12345&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+<!-- GitHub Stats - Shows ALL real commits -->
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anujpandey12345&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
-<!-- FIXED: Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anujpandey12345&theme=github-dark-blue&hide_border=true" />
+<!-- Streak Stats -->
+<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=anujpandey12345&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=c9d1d9" alt="GitHub Streak" />
 
-<!-- Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpandey12345&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujpandey12345&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 
 </div>
 
-
 ---
 
-## 🔥 GitHub Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpandey12345&custom_title=Anuj's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0d1117&title_color=FFFFFF&area=true&hide_border=true" width="100%">
+
+
+<!-- Main Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpandey12345&custom_title=&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0d1117&title_color=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
 
 ---
@@ -108,12 +107,6 @@ I spend most of my time crafting robust server-side applications and exploring n
 
 </div>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=anujpandey12345&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  </a>
-</div>
-
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -136,5 +129,11 @@ class AnujKumar:
 
 me = AnujKumar()
 print(me.say_hi())
+
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
 
 
