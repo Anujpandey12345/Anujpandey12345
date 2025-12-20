@@ -16,12 +16,12 @@
 
 I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems.  
 I spend most of my time crafting robust server-side applications and exploring new technologies.
-- 🔭 **Currently Building:** [AI Career Counseling App](https://github.com/Anujpandey12345/AI_career_counseling_App)  
+- ⚡ **Open Source Contributor** → [View Discussion ↩️](https://github.com/zekaekop/The-Django-Project/issues/86)
+- 🔭 **Currently Building:** [AI Career Counseling App](https://github.com/Anujpandey12345/AI_career_counseling_App)
+- 🚀 **Portfolio:** [Portfolio ](https://anujcom.vercel.app/)
 - 🌱 **Currently Learning:** Kafka, RabbitMQ, Redis, Celery, DRF  
 - 💬 **Ask me about:** Python, Django, C++, System Design  
-- 📫 **Reach me at:** anuj.a87a@gmail.com  
-- ⚡ **Fun fact:** I code 10–11 hours daily  
-- 🚀 **Portfolio:** https://anujcom.vercel.app/
+- 📫 **Reach me at:** anuj.a87a@gmail.com
 
 <br clear="both">
 
