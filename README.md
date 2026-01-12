@@ -13,14 +13,23 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **Backend Developer** from India who loves building scalable and efficient systems.  
-I spend most of my time crafting robust server-side applications and exploring new technologies.
+## 👋 Hi there, I'm Anuj Kumar  
+🌍 **Backend Developer | Open to Remote Opportunities**
+
+I'm a passionate **Backend Developer** from India who loves building scalable, efficient, and reliable systems.  
+I spend most of my time crafting robust server-side applications and exploring modern backend technologies.
+
+---
+
 - ⚡ **Open Source Contributor** → [View Discussion ↩️](https://github.com/zekaekop/The-Django-Project/issues/86)
 - 🔭 **Currently Building:** [oss-contribution-tracker](https://github.com/Anujpandey12345/oss-contribution-tracker)
-- 🚀 **Portfolio:** [Portfolio ](https://anujcom.vercel.app/)
-- 🌱 **Currently Learning:** Kafka, RabbitMQ, Redis, Celery, DRF  
-- 💬 **Ask me about:** Python, Django, C++, System Design  
+- 🚀 **Portfolio:** [anujcom.vercel.app](https://anujcom.vercel.app/)
+- 🌱 **Currently Learning:** Kafka, RabbitMQ, Redis, Celery, Django REST Framework (DRF)
+- 💬 **Ask me about:** Python, Django, C++, System Design
 - 📫 **Reach me at:** anuj.a87a@gmail.com
+- 🌐 **Availability:** ✅ Actively seeking **Remote Backend Roles** (Full-time / Contract / Open Source)
+
+---
 
 <br clear="both">
 
