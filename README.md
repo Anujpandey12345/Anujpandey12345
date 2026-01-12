@@ -5,9 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFA500,100:FF8C00&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontAlignY=30&desc=Lets%20Contribute%20To%20Open%20Source%20And%20Build%20Something&descSize=18&descAlignY=51&animation=twinkling" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
      <img src="./assets/demon-slayer.gif" width="600">
-</p>
+</p> -->
 
 ## 🚀 About Me
 
