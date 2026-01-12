@@ -27,7 +27,7 @@ I spend most of my time crafting robust server-side applications and exploring m
 - 🌱 **Currently Learning:** Kafka, RabbitMQ, Redis, Celery, Django REST Framework (DRF)
 - 💬 **Ask me about:** Python, Django, C++, System Design
 - 📫 **Reach me at:** anuj.a87a@gmail.com
-- 🌐 **Availability:** ✅ Actively seeking **Remote Backend Roles** (Full-time / Contract / Open Source)
+- 🌐 **Availability:** ✅ Actively seeking **Remote/Onsite Backend Roles** (Full-time / Contract / Open Source)
 
 ---
 
