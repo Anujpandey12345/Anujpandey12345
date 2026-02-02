@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Backend+Developer+🚀;Python+Enthusiast+🐍;Problem+Solver+🧩;Always+Learning+📚;Building+Scalable+Systems+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Backend+Developer+🚀;Python+Enthusiast+🐍;Problem+Solver+🧩;Always+Learning+📚;Building+Scalable+Systems+⚡" />
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFA500,100:FF8C00&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontAlignY=30&desc=Lets%20Contribute%20To%20Open%20Source%20And%20Build%20Something&descSize=18&descAlignY=51&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:808080,100:FFFFFF&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontAlignY=30&desc=Lets%20Contribute%20To%20Open%20Source%20And%20Build%20Something&descSize=18&descAlignY=51&animation=twinkling" />
 </div>
+
 
 <!-- <p align="center">
      <img src="./assets/demon-slayer.gif" width="600">
