@@ -15,8 +15,8 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 👋 Hi there, I'm Anuj Kumar  
-🌍 **Backend Developer | Open to Remote/Onsite Opportunities**
+## 👋 Hi there, I'm Anuj Kumar 
+🌍 **Backend Developer at KoiReader Technology | Open to Remote/Onsite Opportunities**
 
 I'm a passionate **Backend Developer** from India who loves building scalable, efficient, and reliable systems.  
 I spend most of my time crafting robust server-side applications and exploring modern backend technologies.
