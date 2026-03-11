@@ -7,9 +7,9 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
      <img src="./assets/demon-slayer.gif" width="600">
-</p>
+</p> -->
 
 ## 🚀 About Me
 
