@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:808080,100:FFFFFF&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontAlignY=30&desc=Lets%20Contribute%20To%20Open%20Source%20And%20Build%20Something&descSize=18&descAlignY=51&animation=twinkling" />
 </div>
 
-## 🚀 About ME -- Anuj
+## 🚀 About ME
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
