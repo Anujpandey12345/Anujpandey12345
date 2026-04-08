@@ -21,7 +21,7 @@ I spend most of my time crafting robust server-side applications and exploring m
 - ⚡ **Open Source Contributor** → [View Discussion ↩️](https://github.com/zekaekop/The-Django-Project/issues/86)
 - 🔭 **Currently Building:** [oss-contribution-tracker](https://github.com/Anujpandey12345/oss-contribution-tracker)
 - 🚀 **Portfolio:** [anujcom.vercel.app](https://anujcom.vercel.app/)
-- 🌱 **Currently Learning:** Flask
+- 🌱 **Currently Learning:** Flask, Computer Vision and ML
 - 💬 **Ask me about:** Python, Django, C++, System Design
 - 📫 **Reach me at:** anuj.a87a@gmail.com
 - 🌐 **Availability:** ✅ Actively seeking **Remote/Onsite Backend Roles** (Full-time / Contract / Open Source)
